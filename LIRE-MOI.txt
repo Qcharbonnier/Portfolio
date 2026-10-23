@@ -1,0 +1,40 @@
+PORTFOLIO DE QUENTIN CHARBONNIER
+
+DÉMARRAGE
+1. Extraire entièrement l’archive ZIP.
+2. Ouvrir index.html dans un navigateur.
+3. Garder les dossiers css et js à côté de index.html.
+Aucune installation, compilation ou dépendance externe n’est nécessaire.
+
+CONTENU
+index.html : contenu et structure
+css/style.css : présentation et adaptation mobile
+js/script.js : menu mobile et année du pied de page
+.nojekyll : fichier vide pour la publication du site statique
+
+À VÉRIFIER AVANT PUBLICATION
+- Vérifier la formation actuelle et ajouter les dates exactes du BUT et du BTS.
+  Les dates non confirmées ont volontairement été omises.
+- Vérifier le lien LinkedIn, reconstitué à partir du CV.
+- Vérifier l’adresse e-mail et accepter qu’elle soit publique.
+- Relire le projet : vérifier notamment que « racks » est le terme approprié.
+- Ne publier aucun code TEREVA, document interne, référence réelle, secret ou
+  capture confidentielle sans autorisation. Le site ne contient aucun de ces éléments.
+- Mr Bricolage, adresse postale, téléphone et date de naissance ne sont pas inclus.
+- Aucun CV téléchargeable n’est lié : préparer une version publique avant de l’ajouter.
+- Aucun gain chiffré ou diplôme obtenu non confirmé n’a été ajouté.
+
+PUBLICATION SUR GITHUB PAGES
+1. Créer un compte sur GitHub, puis un dépôt public nommé portfolio.
+2. Ajouter les fichiers et les dossiers de cette archive au dépôt.
+   index.html doit être directement à la racine du dépôt.
+   Ne pas téléverser uniquement le ZIP.
+3. Enregistrer avec Commit changes.
+4. Settings > Pages > Build and deployment > Deploy from a branch.
+5. Choisir main, puis / (root), et Save.
+6. Attendre la publication puis récupérer le lien dans Settings > Pages.
+7. Tester le lien sur téléphone et dans une fenêtre privée.
+
+MODIFICATIONS
+Modifier les textes dans index.html et les couleurs dans css/style.css.
+Après modification, téléverser les fichiers modifiés puis enregistrer les changements.
